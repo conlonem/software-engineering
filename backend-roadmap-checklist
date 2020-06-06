@@ -1,0 +1,120 @@
+BASED ON BACKEND ROADMAP BY @kamranahmedse
+
+1. OS and General Knowledge
+[ ] Terminal Usage
+[ ] How OSs work in General
+[ ] Process Management
+[ ] Threads and Concurrency
+[ ] Basic Terminal Commands 
+  [ ] grep, awk, sed, lsof, curl, wget
+  [ ] tail, head, less, find, ssh, kill
+[ ] Memory Management
+[ ] Interprocess Communication
+[ ] I/O Management
+[ ] POSIX Basics
+  [ ] stdin, stdout, stderr, pipes
+[ ] Basic Networking Concepts
+
+2. Learn a language
+//Make sure to learn the quirks. Core detail about its runtime
+//e.g. concurrency, memory model etc
+[ ] JavaScript
+[ ] Java 
+[ ] **Python
+
+3. Relational Databases
+[ ] PostgreSQL
+[ ] **MySQL
+
+4. NoSQL Databases
+[ ] MongoDB
+
+5. More about Databases
+[ ] ORMs
+[ ] ACID
+[ ] Transactions
+[ ] N+1 Problem
+[ ] Database Normalisation
+[ ] Indexes and how they work
+[ ] **Data Replication
+[ ] **Sharding Strategies
+[ ] **CAP Theorum
+
+6. Learn about API
+[ ] Authentication
+  [ ] OAuth
+  [ ] Basic Authentication
+  [ ] Token Authentication
+  [ ] JWT
+  [ ] **Cookie Based
+  [ ] **OpenID
+  [ ] **SAML
+[ ] REST (Roy Fielding's paper)
+[ ] JSON APIs
+[ ] **SOAP
+[ ] **HATEOAS
+[ ] **Open API Spec and Swagger
+
+7. Caching
+[ ] CDN
+[ ] Client Side
+[ ] Server Side (Redis)
+
+8. Web Security Knowledge
+[ ] MD5 and why not to use it
+[ ] SHA Family
+[ ] scrypt
+[ ] bcrypt
+
+9. CI/CD
+
+10. Design and Development Principles
+[ ] SOLID
+[ ] KISS
+[ ] YAGNI
+[ ] DRY
+[ ] **GOF Design Patterns
+[ ] **Domain Driven Design
+[ ] **Test Driven Development
+
+11. Architectural Patterns
+[ ] Monolithic Apps
+[ ] Microservices
+[ ] SOA
+[ ] **CQRS and Event Sourcing
+[ ] Serverless
+
+12. Search Engines
+[ ] Elasticsearch
+
+13. **Message Brokers
+[ ] RabbitMQ
+
+14. Containerisation vs Virtualisation
+[ ] Docker
+
+15. **Graph Databases
+[ ] Neo4j
+
+16. **Websockets
+
+17. **Web servers
+[ ] Nginx
+[ ] **Apache
+
+18. Building for Scale
+[ ] Mitigation Strategies
+  [ ] Graceful Degradation
+  [ ] Throttling
+  [ ] Backpressure
+  [ ] Loadshifting
+  [ ] Circuit Breaker
+[ ] Migration Strategies
+[ ] Horizontal vs Vertical Scaling
+[ ] Building with Observability in mind
+  //Metrics logging and other observable iotems that could help you in debugging
+  //and solving the issues when things go wrong
+[ ] Understand the Difference
+  [ ] Instrumentation
+  [ ] Monitoring
+  [ ] Telemetry
