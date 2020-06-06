@@ -1,30 +1,31 @@
 BASED ON THE FRONTEND ROADMAP BY @kamranahmedse
 
 1. Internet
-[ ] How does the internet work?
-[ ] What is HTTP?
-[ ] Browsers and how they work?
-[ ] DNS and how it works?
-[ ] What is Domain Name?
-[ ] What is hosting?
+[X] How does the internet work?
+[X] What is HTTP?
+[X] Browsers and how they work?
+[X] DNS and how it works?
+[X] What is Domain Name?
+[X] What is hosting?
+[ ] Create summary page
 
 2. HTML
-[ ] Learn the basics
-[ ] Forms and Validations
+[X] Learn the basics
+[X] Forms and Validations
 [ ] Conventions and Best Practice
 [ ] **Accessibility
 [ ] **SEO Basics
 [ ] **Writing semantic HTML
 
 3. CSS
-[ ] Learn the basics
+[X] Learn the basics
 [ ] Making layouts
-  [ ] Floats
+  [X] Floats
   [ ] Positioning
   [ ] Display
-  [ ] Box Model
+  [X] Box Model
   [ ] CSS Grid
-  [ ] Flex Box
+  [X] Flex Box
 [ ] Responsive Design and Media Queries
 
 4. Javascript
@@ -35,8 +36,8 @@ BASED ON THE FRONTEND ROADMAP BY @kamranahmedse
 [ ] Understand the concepts Hoisting, Event Bubbling, Scope, Prototype, Shadow DOM, strict
 
 5. Version Control Systems
-[ ] Basic Usage of Git
-[ ] GitHub
+[X] Basic Usage of Git
+[X] GitHub
 
 6. Web Security Knowledge
 [ ] **HTTPS
