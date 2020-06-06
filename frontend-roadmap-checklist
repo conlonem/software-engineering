@@ -1,0 +1,131 @@
+1. Internet
+[ ] How does the internet work?
+[ ] What is HTTP?
+[ ] Browsers and how they work?
+[ ] DNS and how it works?
+[ ] What is Domain Name?
+[ ] What is hosting?
+
+2. HTML
+[ ] Learn the basics
+[ ] Forms and Validations
+[ ] Conventions and Best Practice
+[ ] **Accessibility
+[ ] **SEO Basics
+[ ] **Writing semantic HTML
+
+3. CSS
+[ ] Learn the basics
+[ ] Making layouts
+  [ ] Floats
+  [ ] Positioning
+  [ ] Display
+  [ ] Box Model
+  [ ] CSS Grid
+  [ ] Flex Box
+[ ] Responsive Design and Media Queries
+
+4. Javascript
+[ ] Syntax and basic constructs
+[ ] Learn DOM Manipulation
+[ ] Learn Fetch API / Ajax (XHR)
+[ ] ES6+ and modular Javascript
+[ ] Understand the concepts Hoisting, Event Bubbling, Scope, Prototype, Shadow DOM, strict
+
+5. Version Control Systems
+[ ] Basic Usage of Git
+[ ] GitHub
+
+6. Web Security Knowledge
+[ ] **HTTPS
+[ ] **CORS
+[ ] **Content Security Policy
+[ ] **OWASP Security Risks
+
+7. Package Managers
+[ ] npm
+[ ] yarn
+
+8. CSS Arcitecture
+[ ] BEM
+
+9. CSS Preprocessors
+[ ] **SASS
+
+10. Build Tools
+[ ] Task runners
+  [ ] npm scripts
+[ ] Module Bundlers
+  [ ] Webpack
+[ ] Linters and Formatters
+  [ ] Prettier
+  [ ] ESLint
+
+11. Pick a Framework
+[ ] React.js
+  [ ] Redux
+[ ] **Vue.js
+  [ ] **VueX
+  
+12. Modern CSS
+[ ] Styled Componenets
+[ ] CSS Modules
+
+13. **Web Components
+[ ] HTML Templates
+[ ] Custom elements
+[ ] Shadow DOM
+
+14. CSS Frameworks
+//JS based and better to use with framework based JS applications
+[ ] Reactstrap
+[ ] Material UI
+//CSS first framework that doesn't come with JS by default
+[ ] Bootstrap
+
+15. Testing your Apps
+//Learn the difference b/w Unit, Integration and Functional tests 
+//and learn how to write them with the tools listed below:
+[ ] Jest
+[ ] react-testing-library
+[ ] Cypress
+[ ] Enzyme
+
+16. **Type Checkers 
+[ ] Typescript
+
+17. **Progressive Web Apps
+//Learn different Web APIs used in PWAs
+[ ] Storage
+[ ] Web Sockets
+[ ] Service Workers
+[ ] Location
+[ ] Notifications
+[ ] Device Orientation
+[ ] Payments
+[ ] Credentials
+//Calculating, Measuring and improving performance
+[ ] PRPL Pattern
+[ ] RAIL Model
+[ ] Performance Metrics
+[ ] Using Lighthouse
+[ ] Using DevTools
+
+18. **Server Side Rendering (SSR)
+[ ] React.js
+  [ ] Next.js
+
+19. **GraphQL
+[ ] Apollo
+
+20. **Static Site Generators
+[ ] Next.js
+[ ] GatsbyJS
+
+21. **Mobile Applications
+[ ] React Native
+
+22. **Desktop Applications
+[ ] Electron
+
+23. **Web Assembly
