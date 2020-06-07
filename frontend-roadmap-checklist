@@ -18,14 +18,14 @@ BASED ON THE FRONTEND ROADMAP BY @kamranahmedse
 
 3. CSS
 [X] Learn the basics
-[ ] Making layouts
+[X] Making layouts
   [X] Floats
-  [ ] Positioning
-  [ ] Display
+  [X] Positioning
+  [X] Display
   [X] Box Model
-  [ ] CSS Grid
+  [X] CSS Grid
   [X] Flex Box
-[ ] Responsive Design and Media Queries
+[X] Responsive Design and Media Queries
 
 4. Javascript
 [ ] Syntax and basic constructs
